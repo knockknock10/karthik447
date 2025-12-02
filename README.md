@@ -8,7 +8,6 @@
 [![Medal 2](https://leetcode.com/medal/?showImg=0&id=7673570&isLevel=false)](https://leetcode.com/medal/?showImg=0&id=7673570&isLevel=false)  
 [![Medal 3](https://leetcode.com/medal/?showImg=0&id=7392114&isLevel=false)](https://leetcode.com/medal/?showImg=0&id=7392114&isLevel=false)  
 [![Medal 4](https://leetcode.com/medal/?showImg=0&id=7165953&isLevel=false)](https://leetcode.com/medal/?showImg=0&id=7165953&isLevel=false)  
-[![Medal 5](https://leetcode.com/medal/?showImg=0&id=6920407&isLevel=false)](https://leetcode.com/medal/?showImg=0&id=6920407&isLevel=false)
 
 
 ### ✍️ Random Dev Quote
